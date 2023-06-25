@@ -1,5 +1,5 @@
 # Games-made-with-Scratch
-これらはhttps://packager.turbowarp.org/ でScratchで過去に作成したものをhtmlに変換したものです。  
+これらはScratchで過去に作成したものをhttps://packager.turbowarp.org/ でhtmlに変換したものです。  
 以下にScratchで公開しているurlを示します。  
 (x,y)→(t,x),(t,y)文字当てゲーム: https://scratch.mit.edu/projects/699401546/  
 (Δ-Y)→Iゲーム: https://scratch.mit.edu/projects/864685288/  
